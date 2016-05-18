@@ -1,0 +1,19 @@
+{
+  "name": "easy-perfomance",
+  "version": "1.0.0",
+  "description": "performance reload page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesroom/easy-perfomance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesroom/easy-perfomance/issues"
+  },
+  "homepage": "https://github.com/jamesroom/easy-perfomance#readme"
+}
